@@ -7,3 +7,4 @@ easydict
 matplotlib
 pyyaml
 tensorboardX
+pycocotools # For Windows users, call pip install git+https://github.com/philferriere/cocoapi.git#subdirectory=PythonAPI
